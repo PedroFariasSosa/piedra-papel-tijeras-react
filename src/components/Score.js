@@ -7,6 +7,7 @@ const ScoreStyled = styled.div`
     padding: 10px 0;
     border-radius: 8px;
     width: 80px;
+    height: 72px;
     small {
         text-transform: uppercase;
         color: #2a45c2;
